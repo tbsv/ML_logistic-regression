@@ -14,12 +14,10 @@ There is 1 notebook in this repository:
 
 - [logistic-regression_solution.ipynb](logistic-regression_solution.ipynb) : runs a logistic regression exercise that is taken from a Udemy course (see details in the *About* section below).
 
-In addition, the following ressourcces are in this repository:
+In addition, the following ressources are in this repository:
 
-- [requirements.txt](requirements.txt) : lists all Python libraries that the notebook
-depends on.
-- [DATA](DATA) : contains all data sets and further ressources that are used within the Jupyter Notebook,
-
+- [requirements.txt](requirements.txt) : lists all Python libraries that the notebook depends on.
+- [DATA](DATA) : contains all data sets and further ressources that are used within the Jupyter Notebook.
 
 ## Usage
 
