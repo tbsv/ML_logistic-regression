@@ -6,7 +6,7 @@ This is Binder-compatible repo with a `requirements.txt` file.
 
 ## Summary
 
-//TODO summary
+This project uses fake advertising data to indicate whether a user clicked on an ad on a company website or not. We will try to create a model that uses user properties to predict whether the user will click on the ad or not.
 
 ## Contents
 
@@ -39,7 +39,7 @@ preferably through [Anaconda](https://www.anaconda.com/download/).
 
 Each cell of code can be run with `shift + enter` or you can run the entire notebook by selecting `Cell` -> `Run All` in the toolbar.
 
-//TODO screenshot
+![Screenshot](DATA/jn_run-all.png?raw=true "Screenshot")
 
 For more information on running Jupyter notebooks, see the [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/).
 
