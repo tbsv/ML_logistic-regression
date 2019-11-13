@@ -1,6 +1,6 @@
 # Machine Learning // Logistic Regression
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tbsv/ML_logistic-regression/master?filepath=logistic-regression_solution.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tbsv/ML_logistic-regression/master?filepath=logistic-regression_solution.ipynb) [![nbviewer](https://img.shields.io/badge/nb-viewer-orange?logo=jupyter)](https://nbviewer.jupyter.org/github/tbsv/ML_logistic-regression/blob/master/logistic-regression_solution.ipynb)
 
 This is Binder-compatible repo with a `requirements.txt` file.
 
@@ -29,6 +29,8 @@ pip install -r requirements.txt
 
 You can access this repo via **Binder** at the following URL 
 https://mybinder.org/v2/gh/tbsv/ML_logistic-regression/master or via the Binder badge above.
+
+For a quick look into the notebook, you can use the **NBViewer** badge above.
 
 Alternatively, you can run the notebook locally. Therefore, you will need to have python installed,
 preferably through [Anaconda](https://www.anaconda.com/download/).
