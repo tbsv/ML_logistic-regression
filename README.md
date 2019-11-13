@@ -41,6 +41,32 @@ Each cell of code can be run with `shift + enter` or you can run the entire note
 
 For more information on running Jupyter notebooks, see the [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/).
 
+## Example (for reproduction)
+
+### Import libraries
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+%matplotlib inline
+```
+
+### Import data set
+```python
+ad_data = pd.read_csv('./DATA/advertising.csv')
+```
+
+### Create a histrogram of the age
+```python
+sns.set_style('whitegrid')
+ad_data['Age'].hist(bins=30)
+plt.xlabel('Age')
+```
+
+### Result plot
+![plot](DATA/logistic-regression_age.png?raw=true "Plot")
+
 ## Issues
 
 Please [open an issue](https://github.com/tbsv/ML_logistic-regression/issues) if you encounter any problems while trying to run the notebooks.
